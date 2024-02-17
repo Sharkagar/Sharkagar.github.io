@@ -1,7 +1,7 @@
 <package>
-	<id>anarky-agar.io</id>
-	<name>Anarky-Agario</name>
-	<version>1.3.1</version>
+	<id>nocrash</id>
+	<name>QxAnarky No Crash</name>
+	<version>1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>17.0</maxiOS>
