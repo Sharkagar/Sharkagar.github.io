@@ -59,3 +59,18 @@ Description: Hides Mystery skins to avoid crashing
 Name: Crashfix(rootful)
 Author: QxAnarky
 Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=nocrash
+
+Package: nocrash
+Version: 1
+Section: Tweaks
+Maintainer: Shark
+Architecture: iphoneos-arm64
+Filename: ./debs/nocrash_1_iphoneos-arm64.deb
+Size: 2312
+MD5sum: 67f176c9941ea32f7752dcf65d8b33f3
+SHA1: 2f5a3943fefdfd54e7706b55d8d8ecb89356eb0a
+SHA256: 998a48bdc16637e36e31673ede7b5b353e3fa7b68f0a589fa08fd6da0aa9a02e
+Description: Hides Mystery skins to avoid crashing
+Name: Crashfix(rootless)
+Author: QxAnarky
+Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=crashfix(rootless)
