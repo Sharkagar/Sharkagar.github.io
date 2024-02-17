@@ -5,8 +5,8 @@ Maintainer: Shark
 Depends: firmware (>11)
 Architecture: iphoneos-arm
 Filename: ./debs/anarky-agar.io_1.3.1_iphoneos-arm.deb
-Size: 240
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Size: 81692
+MD5sum: 1a6224ce7e89275e0ee416d4841cc9c2
 Description: A "small" tweak for Agar.io by @Qxanarky
 Name: Anarky-Agar.io
 Author: @Qxanarky
