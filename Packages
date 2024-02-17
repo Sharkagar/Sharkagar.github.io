@@ -74,3 +74,18 @@ Description: Hides Mystery skins to avoid crashing
 Name: Crashfix(rootless)
 Author: QxAnarky
 Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=nocrash(rootless)
+
+Package: StaticZoom
+Version: 1.0
+Section: Tweaks
+Maintainer: iOSGods
+Architecture: iphoneos-arm
+Filename: ./debs/StaticZoom_1.0_iphoneos-arm.deb
+Size: 1580832
+MD5sum: 18def3441c5c3bf28577b555cd00aaff
+SHA1: 6f407c46513231a75dcf72319a1cc9a12f768fea
+SHA256: 1636711c534fcb0a57b2c8e8578ab06ef714ca34dccb4db89c3bdd920bda633d
+Description: Static Zoom for Agar.io
+Name: iOSGods Zoom(rootful)
+Author: iOSGods
+Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=IGZoom
