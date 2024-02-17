@@ -44,3 +44,18 @@ MD5sum: 3a8fc8299ea8db88848ef55692a627cb
 SHA1: 54785756917fece5970f62872a485770f50e5782
 SHA256: c615b986580bfcbb06e99ee884d128d37409099a868f09c7f63861b9d89f7d39
 Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=com.xelahot.xelahotagario
+
+Package: nocrash
+Version: 1
+Section: Tweaks
+Maintainer: Shark
+Architecture: iphoneos-arm
+Filename: ./debs/nocrash.deb
+Size: 2270
+MD5sum: 3998e0fa9bd92278b9b8a978125ce73a
+SHA1: d72125f873148d69eaf187e396da389e51a46647
+SHA256: 7e26339137da194ef97f32104825c64a1443a63099115d04337526f4b86f3d75
+Description: Hides Mystery skins to avoid crashing
+Name: Crashfix(rootful)
+Author: QxAnarky
+Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=nocrash
