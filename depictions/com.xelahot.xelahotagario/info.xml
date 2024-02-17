@@ -1,6 +1,6 @@
 <package>
-	<id>anarky-agar.io</id>
-	<name>Anarky-Agario</name>
+	<id>com.xelahot.xelahotagario</id>
+	<name>Xelahot - Agar.io</name>
 	<version>1.3.1</version>
 	<compatibility>
 		<firmware>
