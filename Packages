@@ -95,7 +95,7 @@ Version: 1.0
 Section: Tweaks
 Maintainer: iOSGods
 Architecture: iphoneos-arm64
-Filename: ./debs/anarky-agar.io_1.3.1_iphoneos-arm64.deb
+Filename: ./debs/StaticZoom_1.0_iphoneos-arm64.deb
 Size: 2196060 
 MD5sum: ec906d57bce6f4a4b4b647f4557a7bb2
 SHA1: de061b05e8d21e0979d695ef81893042da3d7043
