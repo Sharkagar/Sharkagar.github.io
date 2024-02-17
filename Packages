@@ -1,15 +1,14 @@
-Package: anarky-agar.io
+Package: anarky-agar.io(rootful)
 Version: 1.3.1
 Section: Tweaks
-Conflicts: anarky.libanarky
-Maintainer: QxAnarky
+Maintainer: Shark
 Architecture: iphoneos-arm
 Filename: ./debs/anarky-agar.io_1.3.1_iphoneos-arm.deb
 Size: 81692
 MD5sum: 1a6224ce7e89275e0ee416d4841cc9c2
 SHA1: b0a724eeb6ccbc857652714db2a18652065e6825
 SHA256: 4a5beac54f2037aebe1927544b7beeb826fc05d401ac15a418c216acc0db9203
-Description: very small tweak
+Description: A "small" tweak (RIP QxAnarky 🕊️)
 Name: Anarky - Agar.io
 Author: QxAnarky
 Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=anarky-agar.io
