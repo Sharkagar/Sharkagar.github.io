@@ -29,22 +29,6 @@ Name: Anarky - Agar.io(rootless)
 Author: QxAnarky
 Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=anarky-agar.io(rootless)
 
-Package: com.xelahot.xelahotagario
-Name: Sharkahot
-Architecture: iphoneos-arm
-Description: Xelahot mod menu for Agar.io for free!
-Maintainer: xelahot
-Author: xelahot
-Section: Tweaks
-Version: 1.3.3
-Installed-Size: 392
-Filename: ./debs/com.xelahot.xelahotagario_1.3.3_iphoneos-arm.deb
-Size: 70208
-MD5sum: 3a8fc8299ea8db88848ef55692a627cb
-SHA1: 54785756917fece5970f62872a485770f50e5782
-SHA256: c615b986580bfcbb06e99ee884d128d37409099a868f09c7f63861b9d89f7d39
-Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=com.xelahot.xelahotagario
-
 Package: nocrash
 Version: 1
 Section: Tweaks
