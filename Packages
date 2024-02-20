@@ -29,6 +29,21 @@ Name: Anarky - Agar.io(rootless)
 Author: QxAnarky
 Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=anarky-agar.io(rootless)
 
+Package: anarky-agar.io
+Version: 1.3.1
+Section: Tweaks
+Maintainer: QxAnarky
+Architecture: iphoneos-arm64e
+Filename: ./debs/anarky-agar.io_1.3.1_iphoneos-arm64e.deb
+Size: 103148
+MD5sum: 9b6e8ee3f9d7e909e8617b4d08e8f4d2
+SHA1: 96fe9e50dac4dfcda64dee96a5c14e59a95d0954
+SHA256: 83272ca97fe9d00d691d5815606fdd01bef2bb0beb666e5990d795a3c1e51cf6
+Description: A "small" tweak (RIP QxAnarky 🕊️)
+Name: Anarky - Agar.io(serotonin)
+Author: QxAnarky
+Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=anarky-agar.io(serotonin)
+
 Package: nocrash
 Version: 1
 Section: Tweaks
