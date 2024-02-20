@@ -88,3 +88,49 @@ Description: Static Zoom for Agar.io
 Name: iOSGods Zoom(rootless)
 Author: iOSGods
 Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=IGZoom(rootless)
+
+Package: com.xelahot.xelahotagario
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Xelahot
+Architecture: iphoneos-arm64e
+Filename: ./debs/com.xelahot.xelahotagario_1.3.4_iphoneos-arm64e.deb
+Size:  
+MD5sum: 
+SHA1: 
+SHA256: 
+Description: Xelahot
+Name: Xelahot
+Author: Xelahot
+Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=xelahot
+
+Package: com.xelahot.xelahotagario3
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Xelahot
+Architecture: iphoneos-arm64e
+Filename: ./debs/com.xelahot.xelahotagario2_1.3.4_iphoneos-arm64e.deb
+Size:  
+MD5sum: 
+SHA1: 
+SHA256: 
+Description: Xelahot
+Name: Xelahot2
+Author: Xelahot
+Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=xelahot2
+
+Package: com.xelahot.xelahotagario3
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Xelahot
+Architecture: iphoneos-arm64e
+Filename: ./debs/com.xelahot.xelahotagario3_1.3.4_iphoneos-arm64e.deb
+Size:  
+MD5sum: 
+SHA1: 
+SHA256: 
+Description: Xelahot
+Name: Xelahot3
+Author: Xelahot
+Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=xelahot3
+
