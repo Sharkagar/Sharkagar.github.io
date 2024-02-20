@@ -95,25 +95,25 @@ Section: Tweaks
 Maintainer: Xelahot
 Architecture: iphoneos-arm64e
 Filename: ./debs/com.xelahot.xelahotagario_1.3.4_iphoneos-arm64e.deb
-Size:  
-MD5sum: 
-SHA1: 
-SHA256: 
+Size: 93480
+MD5sum: faa68c55a126aceb242030fd4cd31d74
+SHA1: 8afefb889eb6407ee7adf0d11c41f78a4bbdabd2
+SHA256: 803d7552470792a5d434d319d76848bf4c1d8ca5b13cb62f55ea6fcbd5590bf5
 Description: Xelahot
 Name: Xelahot
 Author: Xelahot
 Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=xelahot
 
-Package: com.xelahot.xelahotagario3
+Package: com.xelahot.xelahotagario2
 Version: 1.3.4
 Section: Tweaks
 Maintainer: Xelahot
 Architecture: iphoneos-arm64e
 Filename: ./debs/com.xelahot.xelahotagario2_1.3.4_iphoneos-arm64e.deb
-Size:  
-MD5sum: 
-SHA1: 
-SHA256: 
+Size: 73600
+MD5sum: 26b2ee5ca05e7c9be0ba70a499563375
+SHA1: b8e1e90fac414f1a3ec909f089b6d17289edad76
+SHA256: 4b41f0f4ed647d4aa2401bee2e5d3a6bac22609d34ea2c6707e4280292c2bafd
 Description: Xelahot
 Name: Xelahot2
 Author: Xelahot
@@ -125,10 +125,10 @@ Section: Tweaks
 Maintainer: Xelahot
 Architecture: iphoneos-arm64e
 Filename: ./debs/com.xelahot.xelahotagario3_1.3.4_iphoneos-arm64e.deb
-Size:  
-MD5sum: 
-SHA1: 
-SHA256: 
+Size:  74204
+MD5sum: b32f7b2392ecdfe2c81a512522a0b83e
+SHA1: 6d6251ef4640f8b29433bb2ea5f94549049a5a70
+SHA256: c26b4df2848ecc02ed063ea2073e1373ef32a651480ff735ae479f56a3963a02
 Description: Xelahot
 Name: Xelahot3
 Author: Xelahot
