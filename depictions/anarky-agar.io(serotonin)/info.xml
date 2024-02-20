@@ -1,7 +1,7 @@
 <package>
-	<id>com.xelahot.xelahotagario</id>
-	<name>Xelahot</name>
-	<version>1.3.4</version>
+	<id>anarky-agar.io(rootless)</id>
+	<name>Anarky - Agario</name>
+	<version>1.3.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>17.0</maxiOS>
