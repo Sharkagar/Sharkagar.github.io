@@ -4,10 +4,10 @@ Section: Tweaks
 Maintainer: @ytb.shark
 Architecture: iphoneos-arm
 Filename: ./debs/com.shark.mod_1.5.5_iphoneos-arm.deb
-Size: 51962
-MD5sum: 5d5783b2960be87a27340716425b6b6c
-SHA1: b8aef85a220e7402ce55e8b9177e4879f064f0bf
-SHA256: 6c35779bda66d53e6a19b11bdfbd6729745b82e117e06ed09e2bb53142835fbf
+Size: 47612
+MD5sum: 564497b911db008679293f8428df0d77
+SHA1: b19e62f0e51b4627e091a4e6056b539ca6cec6bb
+SHA256: ad17b9fbebd5a875e8fd6146e18429a41d4e1d758bf2d1361f29df8ff042a45e
 Description: Just another mod for agar...
 Name: SharkMod(rootful)
 Author: @ytb.shark
