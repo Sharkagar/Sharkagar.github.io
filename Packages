@@ -1,162 +1,30 @@
-Package: anarky-agar.io
-Version: 1.3.1
+Package: com.shark.mod
+Version: 1.5.5
 Section: Tweaks
-Maintainer: Shark
+Maintainer: @ytb.shark
 Architecture: iphoneos-arm
-Filename: ./debs/anarky-agar.io_1.3.1_iphoneos-arm.deb
-Size: 81692
-MD5sum: 1a6224ce7e89275e0ee416d4841cc9c2
-SHA1: b0a724eeb6ccbc857652714db2a18652065e6825
-SHA256: 4a5beac54f2037aebe1927544b7beeb826fc05d401ac15a418c216acc0db9203
-Description: A "small" tweak (RIP QxAnarky 🕊️)
-Name: Anarky - Agar.io(rootful)
-Author: QxAnarky
-Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=anarky-agar.io
+Filename: ./debs/com.shark.mod_1.5.5_iphoneos-arm.deb
+Size: x
+MD5sum: x
+SHA1: x
+SHA256: x
+Description: Just another mod for agar...
+Name: SharkMod(rootful)
+Author: @ytb.shark
+Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=com.shark.mod
 
-Package: anarky-agar.io
-Version: 1.3.1
+Package: com.shark.mod
+Version: 1.5.5
 Section: Tweaks
-Maintainer: QxAnarky
+Maintainer: @ytb.shark
 Architecture: iphoneos-arm64
-Filename: ./debs/anarky-agar.io_1.3.1_iphoneos-arm64.deb
-Size: 101972
-Installed-Size: 240
-MD5sum: c875009a4207694f300966c0c65a478e
-SHA1: c1a4d83f74061d94e0ad156be969a41eb15f83bb
-SHA256: acaf457009436f5f6f86479886c838741bb945a0de34a72d8acd9bf4fce2baeb
-Description: A "small" tweak (RIP QxAnarky 🕊️)
-Name: Anarky - Agar.io(rootless)
-Author: QxAnarky
-Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=anarky-agar.io(rootless)
-
-Package: anarky-agar.io
-Version: 1.3.1
-Section: Tweaks
-Maintainer: QxAnarky
-Architecture: iphoneos-arm64e
-Filename: ./debs/anarky-agar.io_1.3.1_iphoneos-arm64e.deb
-Size: 103148
-MD5sum: 9b6e8ee3f9d7e909e8617b4d08e8f4d2
-SHA1: 96fe9e50dac4dfcda64dee96a5c14e59a95d0954
-SHA256: 83272ca97fe9d00d691d5815606fdd01bef2bb0beb666e5990d795a3c1e51cf6
-Description: A "small" tweak (RIP QxAnarky 🕊️)
-Name: Anarky - Agar.io(serotonin)
-Author: QxAnarky
-Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=anarky-agar.io(serotonin)
-
-Package: nocrash
-Version: 1
-Section: Tweaks
-Maintainer: Shark
-Architecture: iphoneos-arm
-Filename: ./debs/nocrash.deb
-Size: 2270
-MD5sum: 3998e0fa9bd92278b9b8a978125ce73a
-SHA1: d72125f873148d69eaf187e396da389e51a46647
-SHA256: 7e26339137da194ef97f32104825c64a1443a63099115d04337526f4b86f3d75
-Description: Hides Mystery skins to avoid crashing
-Name: Crashfix(rootful)
-Author: QxAnarky
-Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=nocrash
-
-Package: nocrash
-Version: 1
-Section: Tweaks
-Maintainer: Shark
-Architecture: iphoneos-arm64
-Filename: ./debs/nocrash_1_iphoneos-arm64.deb
-Size: 2312
-MD5sum: 67f176c9941ea32f7752dcf65d8b33f3
-SHA1: 2f5a3943fefdfd54e7706b55d8d8ecb89356eb0a
-SHA256: 998a48bdc16637e36e31673ede7b5b353e3fa7b68f0a589fa08fd6da0aa9a02e
-Description: Hides Mystery skins to avoid crashing
-Name: Crashfix(rootless)
-Author: QxAnarky
-Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=nocrash(rootless)
-
-Package: StaticZoom
-Version: 1.0
-Section: Tweaks
-Maintainer: iOSGods
-Architecture: iphoneos-arm
-Filename: ./debs/StaticZoom_1.0_iphoneos-arm.deb
-Size: 1580832
-MD5sum: 18def3441c5c3bf28577b555cd00aaff
-SHA1: 6f407c46513231a75dcf72319a1cc9a12f768fea
-SHA256: 1636711c534fcb0a57b2c8e8578ab06ef714ca34dccb4db89c3bdd920bda633d
-Description: Static Zoom for Agar.io
-Name: iOSGods Zoom(rootful)
-Author: iOSGods
-Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=IGZoom
-
-Package: StaticZoom
-Version: 1.0
-Section: Tweaks
-Maintainer: iOSGods
-Architecture: iphoneos-arm64
-Filename: ./debs/StaticZoom_1.0_iphoneos-arm64.deb
-Size: 2196060 
-MD5sum: ec906d57bce6f4a4b4b647f4557a7bb2
-SHA1: de061b05e8d21e0979d695ef81893042da3d7043
-SHA256: b6fc386ad7680777cd1d78f2ef39408058b346fb098129a95426b7d0cff72386
-Description: Static Zoom for Agar.io
-Name: iOSGods Zoom(rootless)
-Author: iOSGods
-Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=IGZoom(rootless)
-
-Package: com.xelahot.xelahotagario
-Version: 1.3.4
-Section: Tweaks
-Maintainer: Xelahot
-Architecture: iphoneos-arm64e
-Filename: ./debs/com.xelahot.xelahotagario_1.3.4_iphoneos-arm64e.deb
-Size: 93480
-MD5sum: faa68c55a126aceb242030fd4cd31d74
-SHA1: 8afefb889eb6407ee7adf0d11c41f78a4bbdabd2
-SHA256: 803d7552470792a5d434d319d76848bf4c1d8ca5b13cb62f55ea6fcbd5590bf5
-Name: Xelahot
-Author: Xelahot
-Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=xelahot
-
-Package: com.xelahot.xelahotagario2
-Version: 1.3.4
-Section: Tweaks
-Maintainer: Xelahot
-Architecture: iphoneos-arm64e
-Filename: ./debs/com.xelahot.xelahotagario2_1.3.4_iphoneos-arm64e.deb
-Size: 73600
-MD5sum: 26b2ee5ca05e7c9be0ba70a499563375
-SHA1: b8e1e90fac414f1a3ec909f089b6d17289edad76
-SHA256: 4b41f0f4ed647d4aa2401bee2e5d3a6bac22609d34ea2c6707e4280292c2bafd
-Name: Xelahot2
-Author: Xelahot
-Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=xelahot2
-
-Package: com.xelahot.xelahotagario3
-Version: 1.3.4
-Section: Tweaks
-Maintainer: Xelahot
-Architecture: iphoneos-arm64e
-Filename: ./debs/com.xelahot.xelahotagario3_1.3.4_iphoneos-arm64e.deb
-Size:  74204
-MD5sum: b32f7b2392ecdfe2c81a512522a0b83e
-SHA1: 6d6251ef4640f8b29433bb2ea5f94549049a5a70
-SHA256: c26b4df2848ecc02ed063ea2073e1373ef32a651480ff735ae479f56a3963a02
-Name: Xelahot3
-Author: Xelahot
-Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=xelahot3
-
-Package: qxanarkymodmenu
-Version: 1.0
-Section: Tweaks
-Maintainer: QxAnarky
-Architecture: iphoneos-arm64e
-Filename: ./debs/qxanarkymodmenu_1.0_iphoneos-arm64e.deb
-Size: 63488
-MD5sum: 3c783515973b701fa42512be4f21d1a6
-SHA1: 54d3a5852f3b17db897b3a79412f77c65c7843d4
-SHA256: 681e74bca7fdcc71f0b91448297cd0a0349e7a287238fa24e86782573effe667
-Name: Anarky rush-glitch (serotonin)
-Author: QxAnarky
-Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=rush(serotonin)
-
+Filename: ./debs/com.shark.mod_1.5.5_iphoneos-arm64.deb
+Size: x
+Installed-Size: x
+MD5sum: x
+SHA1: x
+SHA256: x
+Description: Just another mod for agar...
+Name: SharkMod(rootless)
+Author: @ytb.shark
+Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=com.shark.mod(rootless)
